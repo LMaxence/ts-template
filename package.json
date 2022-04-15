@@ -19,11 +19,11 @@
   "license": "ISC",
   "devDependencies": {
     "@escape.tech/mookme": "^2.2.0-beta.2",
-    "@typescript-eslint/eslint-plugin": "^5.8.0",
-    "@typescript-eslint/parser": "^5.8.0",
-    "eslint": "^8.5.0",
-    "prettier": "^2.5.1",
+    "@typescript-eslint/eslint-plugin": "^5.19.0",
+    "@typescript-eslint/parser": "^5.19.0",
+    "eslint": "^8.13.0",
+    "prettier": "^2.6.2",
     "ts-node-dev": "^1.1.8",
-    "typescript": "^4.5.4"
+    "typescript": "^4.6.3"
   }
 }
